@@ -1,0 +1,16 @@
+{
+  "name": "dataimporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data-importer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Chen",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.1.0",
+    "mongoose": "^5.9.23",
+    "read-excel-file": "^4.0.6"
+  }
+}
